@@ -14,6 +14,7 @@ int main(){
         }
     }
     //Berikut adalah programnya
+    //Berikut adalah hasilnya
     printf("\t\n================================================================");
     printf("\t\n||        Program Menentukan Nilai Terkecil Dalam Array       ||");
     printf("\t\n================================================================");
