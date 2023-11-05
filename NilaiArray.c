@@ -13,6 +13,7 @@ int main(){
             nilai_terkecil = nilai[index];
         }
     }
+    //Berikut adalah programnya
     printf("\t\n================================================================");
     printf("\t\n||        Program Menentukan Nilai Terkecil Dalam Array       ||");
     printf("\t\n================================================================");
